@@ -27,8 +27,8 @@ Sachin = {
 }
 ```
 
-<img src="https://media.giphy.com/media/21PccxrfPVOV1lhBAQ/giphy.gif" width="60"> <em><b>I don't like humans</b> but if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/21PccxrfPVOV1lhBAQ/giphy.gif" width="60"> <em><b>I don't like humans</b> but if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img align='right' src="https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif" width="230">
 
-<img align='right' src="https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif" width="230">
+
 
 ---
