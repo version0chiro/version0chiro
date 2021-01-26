@@ -19,7 +19,7 @@ Sachin = {
   hobbies: ["Animee", "Video-Games", "Reading"],
   techCommunities: {
                         Development Lead: "Robocon 2021",
-                        SDE: "Blue Phenoix Technologies",
+                        SDE: "Blue Phoenix  Technologies",
                         BackEnd Developer: "Levyne"
                       },
  how-to-reach: ["Step 1:Start a java vs python argument",
