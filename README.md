@@ -1,5 +1,5 @@
 <h2> Hi, I'm Sachin Singh Bhadoriya! <img src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" width="230">
+<img align='right' src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif" width="230">
 <p><em>Electronics And Tele.  Enginner at <a href="http://djsce.ac.in/">Dwarkadas J. Sanghvi College of Enginnering</a><img src="https://media.giphy.com/media/YS1oEkcJAcq1q/giphy.gif" width="30"></br>
 Software Development Lead at <a href="https://www.linkedin.com/company/djs-robocon-robotics-team-djsce/">DJSRobocon</a><img src="https://media.giphy.com/media/SwRilQkg9hpeM/giphy.gif" width="30"> 
 </em></p>
