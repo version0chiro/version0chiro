@@ -33,6 +33,11 @@ Sachin = {
 <em><b>I don't like humans</b> but if you want to say <b>hi, I'll be happy to see you more!</b> :)</em>
 ---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=version0chiro&show_icons=true&theme=gotham" alt="version0chiro" />
+<p align="center">
+<a href="https://github.com/shravan20">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=version0chiro&theme=algolia#version3" />
+</a>
+</p>
 
 <img align='right' src="https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif" width="230">
 
