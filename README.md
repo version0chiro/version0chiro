@@ -11,11 +11,25 @@ Software Development Lead at <a href="https://www.linkedin.com/company/djs-roboc
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default)
 
 ### <img src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif" width="50"> If you are more intrested in me...  
+```javascript
+Sachin = {
+  pronouns: "He" | "his",
+  code: [Python, Java, JavaScript, C++, C, MATLAB, HTML,CSS],
+  tools: [Tensorflow,OpenCV , Android Studio, Node, Bootstrap, Docker, React, Flask],
+  hobbies: ["Animee", "Video-Games", "Reading"],
+  techCommunities: {
+                        Development Lead: "Robocon 2021",
+                        SDE: "Blue Phoenix  Technologies",
+                        BackEnd Developer: "Levyne"
+                      },
+ how-to-reach: ["Step 1:Start a java vs python argument",
+                "Step 2: Wait"]
+}
+```
+<img src="https://media.giphy.com/media/21PccxrfPVOV1lhBAQ/giphy.gif" width="400" align='right'> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=version0chiro&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img src="https://media.giphy.com/media/21PccxrfPVOV1lhBAQ/giphy.gif" width="200"> 
+<br>
 <em><b>I don't like humans</b> but if you want to say <b>hi, I'll be happy to see you more!</b> :)</em>
 ---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=version0chiro&show_icons=true&theme=gotham" alt="version0chiro" />
