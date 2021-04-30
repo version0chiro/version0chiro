@@ -35,12 +35,12 @@ Sachin = {
 <em><b>I don't like humans</b> but if you want to say <b>hi, I'll be happy to see you more!</b> :)</em>
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=version0chiro&show_icons=true&theme=gotham" />
-
+<img align='right' src="https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif" width="230">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=version0chiro&theme=tokyonight&stroke=DD2727)](https://git.io/streak-stats)
 
 
-<img align='right' src="https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif" width="230">
+
 
 
 
