@@ -36,9 +36,8 @@ Sachin = {
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=version0chiro&show_icons=true&theme=gotham" />
 <p align="center">
-<a href="https://github.com/version0chiro">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=version0chiro&theme=algolia#version3" />
-</a>
+
 </p>
 
 <img align='right' src="https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif" width="230">
