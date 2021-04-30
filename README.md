@@ -34,7 +34,7 @@ Sachin = {
 <br>
 <em><b>I don't like humans</b> but if you want to say <b>hi, I'll be happy to see you more!</b> :)</em>
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=version0chiro&show_icons=true&theme=gotham" alt="version0chiro" />
+<img src="https://github-readme-stats.vercel.app/api?username=version0chiro&show_icons=true&theme=gotham" />
 <p align="center">
 <a href="https://github.com/version0chiro">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=version0chiro&theme=algolia#version3" />
