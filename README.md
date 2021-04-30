@@ -6,8 +6,9 @@ Software Development Lead at <a href="https://www.linkedin.com/company/djs-roboc
 
 
 [![Linkedin: sachinsinghbhadoriya](https://img.shields.io/badge/-sachinsinghbhadoriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/sachin-singh-bhadoriya-46b18219a/)](https://www.linkedin.com/in/sachin-singh-bhadoriya-46b18219a/)
-[![GitHub Version0chiro](https://img.shields.io/github/followers/version0chiro?label=follow&style=social)](https://github.com/version0chiro)
 
+[![GitHub Version0chiro](https://img.shields.io/github/followers/version0chiro?label=follow&style=social)](https://github.com/version0chiro)
+[![Twitter: sachin singh bahdoriya](https://img.shields.io/twitter/follow/SachinS84744235?style=social)](https://twitter.com/SachinS84744235)
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default)
 
 ### <img src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif" width="50"> If you are more intrested in me...  
