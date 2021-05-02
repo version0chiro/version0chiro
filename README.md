@@ -7,6 +7,8 @@ Software Development Lead at <a href="https://www.linkedin.com/company/djs-roboc
 
 [![Linkedin: sachinsinghbhadoriya](https://img.shields.io/badge/-sachinsinghbhadoriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/sachin-singh-bhadoriya-46b18219a/)](https://www.linkedin.com/in/sachin-singh-bhadoriya-46b18219a/)
 
+[![Hackster Profile](https://img.shields.io/badge/Hackster-%20-blue)](https://www.hackster.io/sachinsinghbhadoriya1)
+
 [![GitHub Version0chiro](https://img.shields.io/github/followers/version0chiro?label=follow&style=social)](https://github.com/version0chiro)
 [![Twitter: sachin singh bahdoriya](https://img.shields.io/twitter/follow/SachinS84744235?style=social)](https://twitter.com/SachinS84744235)
 <br>
@@ -46,3 +48,11 @@ Sachin = {
 
 
 ---
+## My Hardware Projects:
+
+- [Human Count++](https://www.hackster.io/366411/human-count-3d3e30)
+- [BuzzBeat](https://www.hackster.io/385464/buzzbeat-8a9af9)
+- [Hospital Database](https://www.hackster.io/sachinsinghbhadoriya1/hospital-database-system-946c7f)
+- [Hardware accelerated Corona detection using X-Rays](https://www.hackster.io/TheBluePhoenix/contactless-spo2-detection-using-rgb-imaging-c66d78)
+- [Ecological Damage caused by Mobile towers](https://www.hackster.io/rushnagda49/ecological-damage-caused-by-mobile-towers-036f23)
+
