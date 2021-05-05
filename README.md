@@ -10,7 +10,7 @@ Software Development Lead at <a href="https://www.linkedin.com/company/djs-roboc
 [![Hackster Profile](https://img.shields.io/badge/Hackster-%20-blue)](https://www.hackster.io/sachinsinghbhadoriya1)
 
 [![GitHub Version0chiro](https://img.shields.io/github/followers/version0chiro?label=follow&style=social)](https://github.com/version0chiro)
-[![Twitter: sachin singh bahdoriya](https://img.shields.io/twitter/follow/SachinS84744235?style=social)](https://twitter.com/SachinS84744235)
+[![Twitter: sachin singh bahdoriya](https://img.shields.io/twitter/follow/SachinS84744235?style=social)](https://twitter.com/version0chiro)
 <br>
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default)
 
