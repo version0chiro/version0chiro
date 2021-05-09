@@ -42,7 +42,25 @@ Sachin = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=version0chiro&theme=tokyonight&stroke=DD2727)](https://git.io/streak-stats)
 
+#### <img src="https://media.giphy.com/media/smJ0MPiZfIojm/giphy.gif" width="80"> My OS Projects  
 
+```javascript
+console.log(`Feel free to contribute`);
+```
+
+<span>
+<p align="center">
+  <a href="https://github.com/version0chiro/Find-Me-Issues">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=version0chiro&repo=Find-Me-Issues&theme=algolia" />
+  </a>
+
+  <a href="https://github.com/version0chiro/Buzz-Beat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=version0chiro&repo=Buzz-Beat&theme=algolia" />
+  </a>  
+</p>
+</span>
+
+<br>
 
 
 
