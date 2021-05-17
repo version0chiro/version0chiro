@@ -74,3 +74,6 @@ console.log(`Feel free to contribute`);
 - [Hardware accelerated Corona detection using X-Rays](https://www.hackster.io/TheBluePhoenix/contactless-spo2-detection-using-rgb-imaging-c66d78)
 - [Ecological Damage caused by Mobile towers](https://www.hackster.io/rushnagda49/ecological-damage-caused-by-mobile-towers-036f23)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=version0chiro)](https://github.com/ryo-ma/github-profile-trophy)
+
