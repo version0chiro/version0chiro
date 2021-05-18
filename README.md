@@ -59,6 +59,13 @@ console.log(`Feel free to contribute`);
   </a>  
 </p>
 </span>
+<span>
+<p align="center">
+  <a href="https://github.com/version0chiro/VS-Meme-Reddit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=version0chiro&repo=VS-Meme-Reddit&theme=algolia" />
+  </a>
+</p>
+</span>
 
 <br>
 
