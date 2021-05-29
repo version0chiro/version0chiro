@@ -11,7 +11,6 @@ Software Development Lead at <a href="https://www.linkedin.com/company/djs-roboc
 
 [![GitHub Version0chiro](https://img.shields.io/github/followers/version0chiro?label=follow&style=social)](https://github.com/version0chiro)
 [![Twitter: sachin singh bahdoriya](https://img.shields.io/twitter/follow/version0chiro?style=social)](https://twitter.com/version0chiro)
-<br>
 
 ### <img src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif" width="50"> If you are more intrested in me...  
 ```Python
