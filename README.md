@@ -14,7 +14,7 @@ Software Development Lead at <a href="https://www.linkedin.com/company/djs-roboc
 <br>
 
 ### <img src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif" width="50"> If you are more intrested in me...  
-```javascript
+```Python
 Sachin = {
   pronouns: "He" | "his",
   code: [Python, Java, JavaScript, C++, C, MATLAB, HTML,CSS],
