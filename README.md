@@ -30,7 +30,7 @@ Sachin = {
 ```
 <img src="https://media.giphy.com/media/21PccxrfPVOV1lhBAQ/giphy.gif" width="400" align='right'> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=version0chiro&hide=jupyter%20notebook&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=version0chiro&hide=jupyter%20notebook&hide=css&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
   ![](https://komarev.com/ghpvc/?username=version0chiro)
 <br>
 <em><b>I don't like humans</b> but if you want to say <b>hi, I'll be happy to see you more!</b> :)</em>
