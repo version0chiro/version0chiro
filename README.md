@@ -62,6 +62,9 @@ console.log(`Feel free to contribute`);
   <a href="https://github.com/version0chiro/VS-Meme-Reddit">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=version0chiro&repo=VS-Meme-Reddit&theme=algolia" />
   </a>
+  <a href="https://github.com/version0chiro/find-me-issues-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=version0chiro&repo=find-me-issues-app&theme=algolia" />
+  </a>
 </p>
 </span>
 
