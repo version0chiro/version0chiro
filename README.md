@@ -83,5 +83,5 @@ console.log(`Feel free to contribute`);
 - [Ecological Damage caused by Mobile towers](https://www.hackster.io/rushnagda49/ecological-damage-caused-by-mobile-towers-036f23)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=version0chiro)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=version0chiro&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
