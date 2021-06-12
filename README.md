@@ -4,6 +4,7 @@
 Software Development Lead at <a href="https://www.linkedin.com/company/djs-robocon-robotics-team-djsce/">DJSRobocon</a><img src="https://media.giphy.com/media/SwRilQkg9hpeM/giphy.gif" width="30"> 
 </em></p>
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=material-palenight&animation=grow_out_in&layout=default&font=default)
 
 [![Linkedin: sachinsinghbhadoriya](https://img.shields.io/badge/-sachinsinghbhadoriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/sachin-singh-bhadoriya-46b18219a/)](https://www.linkedin.com/in/sachin-singh-bhadoriya-46b18219a/)
 
