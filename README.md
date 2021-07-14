@@ -17,15 +17,15 @@ Software Development Lead at <a href="https://www.linkedin.com/company/djs-roboc
 ```Python
 Sachin = {
   pronouns: "He" | "his",
-  code: [Python, Java, JavaScript, C++, C, MATLAB, HTML,CSS],
-  tools: [Tensorflow,OpenCV , Android Studio, Node, Bootstrap, Docker, React, Flask],
+  code: [Python, Java, JavaScript, C++, C, MATLAB, HTML,CSS,TypeScript],
+  tools: [Tensorflow,OpenCV , Android Studio, Node, Bootstrap, Docker, React, Flask,Next.js,Vercel],
   hobbies: ["Animee", "Video-Games", "Reading"],
   techCommunities: {
                         Development Lead: "Robocon 2021",
                         SDE: "Blue Phoenix  Technologies",
                         BackEnd Developer: "Levyne"
                       },
- how-to-reach: ["Step 1:Start a java vs python argument",
+ how-to-reach: ["Twitter",
                 "Step 2: Wait"]
 }
 ```
