@@ -5,7 +5,7 @@ under construction ......
 # <p align="center"> Greetings My Friends </p>
 
 <p align="center">
-    <h3> <img src="https://media0.giphy.com/media/kf3EjrAsKp3P9bhYHG/giphy.gif?cid=ecf05e4760awfs511433qtbc55qsshyxkitr64ise44egb6u&rid=giphy.gif&ct=s" width="15"> I am happy you stopped by to my Git Cave and I hope you enjoy my work.<img src="https://media0.giphy.com/media/kf3EjrAsKp3P9bhYHG/giphy.gif?cid=ecf05e4760awfs511433qtbc55qsshyxkitr64ise44egb6u&rid=giphy.gif&ct=s" width="15"></h3>
+    <h3  align="center"> <img src="https://media0.giphy.com/media/kf3EjrAsKp3P9bhYHG/giphy.gif?cid=ecf05e4760awfs511433qtbc55qsshyxkitr64ise44egb6u&rid=giphy.gif&ct=s" width="15"> I am happy you stopped by to my Git Cave and I hope you enjoy my work.<img src="https://media0.giphy.com/media/kf3EjrAsKp3P9bhYHG/giphy.gif?cid=ecf05e4760awfs511433qtbc55qsshyxkitr64ise44egb6u&rid=giphy.gif&ct=s" width="15"></h3>
 </p>
 
 <p align="center">    
@@ -44,8 +44,6 @@ under construction ......
 
 #### <p align="center"> <U>Programming Languages </U></p>
 
-
-
 <p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <table>
   <tbody>
@@ -70,6 +68,10 @@ under construction ......
         </td>
         <td align="center">Java<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/java"/></span>
+      </td>
+      <td>
+       <span style="color:green">C++</span><br>
+        <span align="center"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" width="48"/></span>
       </td>
       <td align="center"> <span style="color:green">Solidity</span><br>
         <span align="center"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png" width="48"/></span>
