@@ -68,6 +68,12 @@ under construction ......
       <td align="center">C<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/c-programming.png" /></span>
         </td>
+        <td align="center">Java<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/java"/></span>
+      </td>
+      <td align="center"> <span style="color:green">Solidity</span><br>
+        <span align="center"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png" width="48"/></span>
+      </td>
     </tr>   
   </tbody>
 </table>
@@ -75,12 +81,6 @@ under construction ......
 <table>
   <tbody>
     <tr>
-      <td align="center">Java<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/java"/></span>
-      </td>
-      <td align="center"> <span style="color:green">Solidity</span><br>
-        <span align="center"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png" width="48"/></span>
-      </td>
     </tr>   
   </tbody>
 </table>
