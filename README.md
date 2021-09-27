@@ -44,7 +44,7 @@ under construction ......
 
 #### <p align="center"> <U>Programming Languages </U></p>
 
-#### <p align="center"><span style="color:green">green</span> marks the one am currently learning </p>
+
 
 <p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <table>
