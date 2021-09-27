@@ -2,7 +2,7 @@ under construction ......
 
 ![header](./resources/header2.png)
 
-<center>
+<p align="center">
 
 # Greetings My Friends
 
@@ -33,4 +33,4 @@ under construction ......
 <br>
 
 ### 
-</center>
+</p>
