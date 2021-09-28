@@ -101,7 +101,7 @@ under construction ......
         <span align="center"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/></span>
         </td>
         <td align="center">Next<br>
-        <span align="center"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg"/></span>
+        <span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width="48"/></span>
       </td>
       <td align="center">Nest<br>
         <span align="center"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" /></span>
@@ -213,6 +213,12 @@ under construction ......
 </p>
 </span>
 
+***
+
+#### <p align="center"> <U>Here is what I am doing</U></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
