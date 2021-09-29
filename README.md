@@ -80,6 +80,8 @@ under construction ......
   </tbody>
 </table>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=version0chiro&theme=solarized)
+
 #### <p align="center"> <U>Frameworks </U>
 
 <table>
