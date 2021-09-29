@@ -219,7 +219,11 @@ under construction ......
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   2 hrs 6 mins    █████████████░░░░░░░░░░░░   51.97 % 
+Svelte       1 hr 9 mins     ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+Markdown     17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Bash         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+JSON         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 <!--END_SECTION:waka-->
 
