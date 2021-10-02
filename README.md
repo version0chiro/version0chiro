@@ -226,11 +226,11 @@ under construction ......
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 4 mins    ███████████▒░░░░░░░░░░░░░   45.04 % 
-Vue.js       2 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.02 % 
-Svelte       1 hr 53 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-HTML         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-TypeScript   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Vue.js       7 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   39.00 % 
+JavaScript   6 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.05 % 
+Svelte       1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+JSON         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+TypeScript   47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 <!--END_SECTION:waka-->
 
