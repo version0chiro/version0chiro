@@ -226,9 +226,7 @@ under construction ......
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   56 mins         ████████████████▒░░░░░░░░   65.15 % 
-Bash         15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.69 % 
-JSX          14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.16 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
