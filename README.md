@@ -226,7 +226,9 @@ under construction ......
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 18 mins    █████████████████████████   100.00 % 
+Python   1 hr 18 mins    ██████████████░░░░░░░░░░░   55.56 % 
+JSX      46 mins         ████████▒░░░░░░░░░░░░░░░░   33.05 % 
+CSS      15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 ```
 <!--END_SECTION:waka-->
 
