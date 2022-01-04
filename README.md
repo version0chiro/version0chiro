@@ -226,10 +226,8 @@ under construction ......
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   15 hrs 3 mins   ███████████████████▓░░░░░   79.32 % 
-JSX          3 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript   12 hrs 43 mins  ███████████████████▒░░░░░   77.30 % 
+JSX          3 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 % 
 ```
 <!--END_SECTION:waka-->
 
