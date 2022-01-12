@@ -226,10 +226,10 @@ under construction ......
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 49 mins   ███████████████████████░░   91.40 % 
-HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+JavaScript   10 hrs 21 mins  ███████████████████████▒░   93.36 % 
+HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 <!--END_SECTION:waka-->
 
