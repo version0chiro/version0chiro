@@ -226,11 +226,9 @@ under construction ......
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 18 mins   ████████████████████▓░░░░   82.32 % 
-Solidity     39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-CSS          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+JavaScript   3 hrs 26 mins   ████████████████████▒░░░░   81.94 % 
+Solidity     39 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 <!--END_SECTION:waka-->
 
