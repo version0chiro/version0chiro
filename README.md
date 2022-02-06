@@ -226,7 +226,7 @@ under construction ......
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   19 mins         █████████████████████████   99.36 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
