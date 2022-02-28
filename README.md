@@ -225,9 +225,11 @@ under construction ......
 #### <p align="center"> <U>Here is what I am doing</U></p>
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 
