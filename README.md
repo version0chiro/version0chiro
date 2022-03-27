@@ -227,8 +227,8 @@ under construction ......
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   34 mins         █████████████████████████   99.45 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+JavaScript   2 hrs 3 mins    █████████████████████████   99.45 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
