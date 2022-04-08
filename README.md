@@ -227,8 +227,7 @@ under construction ......
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 45 mins    █████████████████████████   99.96 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
