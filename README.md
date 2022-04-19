@@ -229,6 +229,7 @@ under construction ......
 ```text
 JavaScript   23 mins         ███████████████▒░░░░░░░░░   61.20 %
 JSON         14 mins         █████████▓░░░░░░░░░░░░░░░   38.80 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
