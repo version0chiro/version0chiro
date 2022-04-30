@@ -227,9 +227,7 @@ under construction ......
 <!--START_SECTION:waka-->
 
 ```text
-Text         9 mins          ██████████████▒░░░░░░░░░░   57.23 %
-Python       6 mins          ██████████▒░░░░░░░░░░░░░░   41.30 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
