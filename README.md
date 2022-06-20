@@ -227,7 +227,9 @@ under construction ......
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++    17 mins         ████████████████████░░░░░   80.58 %
+JSON   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+C      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
