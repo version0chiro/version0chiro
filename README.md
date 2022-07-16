@@ -227,8 +227,7 @@ under construction ......
 <!--START_SECTION:waka-->
 
 ```text
-C++    17 mins         ██████████████▒░░░░░░░░░░   57.84 %
-Java   12 mins         ██████████▓░░░░░░░░░░░░░░   42.16 %
+C++   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
