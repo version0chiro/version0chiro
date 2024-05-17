@@ -1,5 +1,5 @@
 
-Some random stuff, will update at some point 
+I make beginner friendly projects for people to contribute and learn from! 
 
 <br>
 
